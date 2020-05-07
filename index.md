@@ -24,10 +24,11 @@
 
 ## 成果
 ### 发表论文
-- “Image-based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve” IEEE Transactions on Sustainable Energy, 发表, 二作，《基于图像处理的风电机组异常数据的检测方法》;
-- “自适应幅值比的有源配电网差动保护方案”， 电测与仪表，录用，二作;
-- “基于幅相关系的有源配电网多端差动保护方案”，电测与仪表，录用，二作;
+- “Image-based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve” IEEE Transactions on Sustainable Energy, 发表, 二作，《基于图像处理的风电机组异常数据的检测方法》
+- “自适应幅值比的有源配电网差动保护方案”， 电测与仪表，录用，二作
+- “基于幅相关系的有源配电网多端差动保护方案”，电测与仪表，录用，二作
 - “A Scenario-adaptive Online Learning Algorithm for Demand Response” ，PESGM2020 , 录用，一作,《基于需求侧响应的考虑多场景的在线学习算法》
+
 ### 申请专利
 -“基于图像处理的风电机组异常数据的检测方法”，专利，已受理，第二发明人;
 
