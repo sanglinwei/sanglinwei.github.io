@@ -8,7 +8,7 @@ show_downloads: false
 
 # sidebar: true
 # sidebar-about-description: "请大家多多指教"
-avatar: images/sanglinwei.png
+avatar: '/images/sanglinwei.png'
 
 theme: jekyll-theme-minimal
 
