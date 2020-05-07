@@ -1,14 +1,36 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+## 研究领域
+- 图像处理
+- 机器学习、人工智能
+- 在线学习
+- 分布式优化及控制
+- 新能源预测
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+## 教育背景
+- 本科：2014-2018年 就读于东南大学电气工程学院
+- 硕士：2018-至今 就读于东南大学电气工程学院
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+## 主要荣誉
+- 2016年获东南大学优秀学生干部
+- 2017年获第三届高校电力电子应用设计大赛优胜奖
+- 2017年获“特高压奖学金”
+- 2018年获东南大学本科优秀毕业生
+- 2018年获华为杯研究生数学建模全国三等奖
+- 2019年获东南大学电气工程学院三好学生
+- 2019年获东南大学电气工程学院一等奖学金
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+## 参与科研项目
+- 《主动配电网保护关键技术研究》，浙江双城电气有限公司 （已完成）
+- 《基于组合在线学习居民负荷聚合控制》，基金项目 （工作中）
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 成果
+### 发表论文
+- “Image-based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve” IEEE Transactions on Sustainable Energy, 发表, 二作，《基于图像处理的风电机组异常数据的检测方法》;
+- “自适应幅值比的有源配电网差动保护方案”， 电测与仪表，录用，二作;
+- “基于幅相关系的有源配电网多端差动保护方案”，电测与仪表，录用，二作;
+- “A Scenario-adaptive Online Learning Algorithm for Demand Response” ，PESGM2020 , 录用，一作,《基于需求侧响应的考虑多场景的在线学习算法》
+### 申请专利
+-“基于图像处理的风电机组异常数据的检测方法”，专利，已受理，第二发明人;
+
+## 学生工作
+- 2016-2017学年担任东南大学电气工程学院团委宣传部部长
+- 2018-至今担任硕士第六党支委宣传委员
