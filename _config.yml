@@ -1,8 +1,15 @@
-title: Jinmingxu.GitHub.io
-description: 
+title: Linwei Sang
+email: sanglinwei21@163.com
+keyword: Electrical engineering
+url: https://sanglinwei.github.io/
+description: "Lin Sang's blog"
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
+
+sidebar: true
+sidebar-about-description: "请大家多多指教"
+# sidebar-avatar: ""
