@@ -6,9 +6,9 @@ description: "Lin Sang's blog"
 google_analytics: 
 show_downloads: false
 
-sidebar: true
-sidebar-about-description: "请大家多多指教"
-sidebar-avatar: images/sanglinwei.png
+# sidebar: true
+# sidebar-about-description: "请大家多多指教"
+avatar: images/sanglinwei.png
 
 theme: jekyll-theme-minimal
 
