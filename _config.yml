@@ -14,6 +14,7 @@ navbar-links:
   Reseach gate: 'wwww.baidu.com'
   英文自我介绍: './gh-pages/self/md'
 
-
 gems:
   - jekyll-mentions
+  - jekyll-pagniate
+  - jekyll-sitemap
