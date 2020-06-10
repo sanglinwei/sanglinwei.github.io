@@ -9,7 +9,10 @@ logo: /images/sanglinwei21.png
 
 theme: jekyll-theme-minimal
 
+navbar-links:
+  About Me: 'wwww.baidu.com'
+  Reseach gate: 'wwww.baidu.com'
+  英文自我介绍：'./gh-pages/self/md'
+
 gems:
   - jekyll-mentions
-
-
