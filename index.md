@@ -1,4 +1,4 @@
-[New version](http://sanglinwei.com/sanglinwei21/)
+[English version](http://sanglinwei.com/sanglinwei21/)
 ## 研究领域
 - 图像处理
 - 机器学习、人工智能
