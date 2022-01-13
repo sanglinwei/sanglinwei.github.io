@@ -29,10 +29,12 @@
 
 ## 成果
 ### 发表论文
-- “Image-based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve” IEEE Transactions on Sustainable Energy, 发表, 二作，《基于图像处理的风电机组异常数据的检测方法》
+- H. Long, L. Sang, Z. Wu and W. Gu, "Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve," in IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 938-946, April 2020.
 - “自适应幅值比的有源配电网差动保护方案”， 电测与仪表，录用，二作
 - “基于幅相关系的有源配电网多端差动保护方案”，电测与仪表，录用，二作
-- “A Scenario-adaptive Online Learning Algorithm for Demand Response” ，PESGM2020 , 录用，一作,《基于需求侧响应的考虑多场景的在线学习算法》
+- L. Sang, Q. Hu, Y. Zhao, R. Han, Z. Wu and X. Dou, "A Scenario-adaptive Online Learning Algorithm for Demand Response," 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020, pp. 1-5.
+- Z. Yi, Y. Xu, H. Wang and L. Sang, "Coordinated Operation Strategy for a Virtual Power Plant With Multiple DER Aggregators," in IEEE Transactions on Sustainable Energy, vol. 12, no. 4, pp. 2445-2458, Oct. 2021.
+- L. Sang, Q. Hu, Y. Xu and Z. Wu, "Privacy-preserving Hybrid Cloud Framework for Real-time TCL-based Demand Response," in IEEE Transactions on Cloud Computing, Early Access.
 
 ### 申请专利
 - “基于图像处理的风电机组异常数据的检测方法”，专利，已受理，第二发明人
