@@ -31,16 +31,19 @@
 
 ## 成果
 ### 发表论文
-- H. Long, L. Sang, Z. Wu and W. Gu, "Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve," in IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 938-946, April 2020.
+- **L. Sang**, Y. Xu, H. Long, Q. Hu, and H. Sun "Electricity Price Prediction for Energy Storage
+System Arbitrage: A Decision-focused Approach", Accepted by IEEE Transactions on Smart Grid, 2022.
+- **L. Sang**, Q. Hu, Y. Xu and Z. Wu, "Privacy-preserving Hybrid Cloud Framework for Real-time TCL-based Demand Response," in IEEE Transactions on Cloud Computing, Early Access, 2022.
+- Z. Yi, Y. Xu, H. Wang and **L. Sang**, "Coordinated Operation Strategy for a Virtual Power Plant With Multiple DER Aggregators," in IEEE Transactions on Sustainable Energy, vol. 12, no. 4, pp. 2445-2458, Oct. 2021.
+- **L. Sang**, Q. Hu, Y. Zhao, R. Han, Z. Wu and X. Dou, "A Scenario-adaptive Online Learning Algorithm for Demand Response," 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020, pp. 1-5.
+- H. Long, **L. Sang**, Z. Wu and W. Gu, "Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve," in IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 938-946, April 2020.
 - “自适应幅值比的有源配电网差动保护方案”， 电测与仪表，录用，二作.
 - “基于幅相关系的有源配电网多端差动保护方案”，电测与仪表，录用，二作.
-- L. Sang, Q. Hu, Y. Zhao, R. Han, Z. Wu and X. Dou, "A Scenario-adaptive Online Learning Algorithm for Demand Response," 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020, pp. 1-5.
-- Z. Yi, Y. Xu, H. Wang and L. Sang, "Coordinated Operation Strategy for a Virtual Power Plant With Multiple DER Aggregators," in IEEE Transactions on Sustainable Energy, vol. 12, no. 4, pp. 2445-2458, Oct. 2021.
-- 桑林卫,卫璇,许银亮,孙宏斌.抽水蓄能助力风光稳定外送的最佳配置策略[J/OL].中国电力:1-6[2022-01-13]
-- L. Sang, Q. Hu, Y. Xu and Z. Wu, "Privacy-preserving Hybrid Cloud Framework for Real-time TCL-based Demand Response," in IEEE Transactions on Cloud Computing, Early Access.
+- **桑林卫**,卫璇,许银亮,孙宏斌.抽水蓄能助力风光稳定外送的最佳配置策略[J/OL].中国电力:1-6[2022-01-13].
 
 ### 申请专利
-- “基于图像处理的风电机组异常数据的检测方法”，专利，已受理，第二发明人
+- "一种基于幅相关系的有源配电网多端差动保护放过"，专利，授权，吴在军，陈佳铭，**桑林卫**，2020；
+- “基于图像处理的风电机组异常数据的检测方法”，专利，已受理，龙寰，**桑林卫**，2019；
 
 ## 学生工作
 - 2016-2017学年担任东南大学电气工程学院团委宣传部部长
