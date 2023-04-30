@@ -1,7 +1,10 @@
 [English version]([http://sanglinwei.com/sanglinwei21/](https://sites.google.com/view/sanglinwei))
 
 ## 简介
-清华大学21级博士生，聚焦联合机器学习和优化理论解决电力系统运行控制问题，提升电力系统运行的稳定性，经济性，和安全性。
+### 目标
+清华大学21级博士生，聚焦设计联合机器学习和优化理论解决电力系统运行控制问题，提升电力系统运行的稳定性，经济性，和安全性。
+### 研究兴趣
+Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
 
 ## 教育背景
 - 博士在读: 2021-至今 就读于清华大学
@@ -26,11 +29,10 @@
 -  L. Sang, Q. Hu, Y. Xu, and Z. Wu, “Privacy-preserving Hybrid Cloud Framework for Real-time TCL-based Demand Response,” IEEE Transactions on Cloud Computing, Early Access, 2022.
 -  H. Long, L. Sang, Z. Wu, and W. Gu, “Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve,” IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 938-946, Apr. 2020.
 
-完整论文详见[Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)
+完整论文详见[Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang)
 
 ## 参与科研项目
 - 国家重点研发计划“漂浮式海上风电机组及海岛多能互补技术”
-- 中国科学院学部咨询评议项目（关于科学规划、开发我国水能资源，助力电力系统消纳新能源的建议)
-- 国家青年基金基金项目“基于组合在线学习居民负荷聚合控制”，
+- 中国科学院学部咨询评议项目”关于科学规划、开发我国水能资源，助力电力系统消纳新能源的建议“
+- 国家青年基金基金项目“基于组合在线学习居民负荷聚合控制”
 - 国家青年基金基金项目“面向数据特征的可再生能源区间预测与并网分层调度模型研究“
-
