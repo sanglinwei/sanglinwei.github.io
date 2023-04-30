@@ -1,4 +1,4 @@
-[English version]([http://sanglinwei.com/sanglinwei21/](https://sites.google.com/view/sanglinwei))
+[English version](http://sanglinwei.com/sanglinwei21/](https://sites.google.com/view/sanglinwei)
 
 ## 简介
 ### 目标
