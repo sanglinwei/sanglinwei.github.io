@@ -22,6 +22,7 @@ Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
 - 2016年获东南大学优秀学生干部
 
 ## 代表论文
+-  L. Sang, Y. Xu, and H. Sun, “Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach，” IEEE Transactions on Sustainable Energy, Early Access, 2023.
 -  L. Sang, Y. Xu, Z. Yi, H. Long, and H. Sun, “Conservative Sparse Neural Network Embedded Frequency Constrained Unit Commitment With Distributed Energy Resources,”  IEEE Transactions on Sustainable Energy, Early Access, 2023.
 -  L. Sang, Y. Xu, and H. Sun, “Ensemble Provably Robust Learn-to-optimize Approach for Security-Constrained Unit Commitment, ” IEEE Transactions on Power Systems, Early Access, 2022.
 -  L. Sang, Y. Xu, H. Long, and W. Wu, “Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network, ” IEEE Transactions on Smart Grid, Early Access, 2022.
