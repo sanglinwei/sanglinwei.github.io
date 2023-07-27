@@ -1,18 +1,22 @@
-[English version](https://sites.google.com/view/sanglinwei)
-[Chinese version](./ch_index.html)
-## 简介
-### 目标
-清华大学21级博士生，聚焦设计联合机器学习和优化理论解决电力系统运行控制问题，提升电力系统运行的稳定性，经济性，和安全性。
-### 研究兴趣
+[Google Site](https://sites.google.com/view/sanglinwei) | 
+[Chinese version](./ch_index.html) | 
+[Publication](./gh-pages/publication.html)
+
+## About Me
+I recieved the B.S and M.S degree from Southeast University, Nangjing, China with honors in 2018, 2021 respectively. I’m current pursing my Ph.d degree advised by Prof. Yinliang Xu in Tsinghua University, which belongs to EMS group head by Prof. Hongbin Sun. I am visiting UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/)
+
+### Research Statements
+I am working on leveraging the machine learning and optimization techniques to solve the power system problems.
+### Research Interests
 Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
 
-## 教育背景
-- 博士在读: 2021-至今 就读于清华大学
-- 访学：2023-至今 加州大学伯克利分校
-- 工学硕士: 2018-2021年 就读于东南大学
-- 本科: 2014-2018年 就读于东南大学
+## Recent News
+- I start my journey in University of California, Berkeley advised by Prof. Oren in May 4th, 2023.
+- Our paper “Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach,” was accepted to  IEEE Transactions on Sustain. Energy, May, 2023.
+- Our paper “Conservative Sparse Neural Network Embedded Frequency-Constrained Unit Commitment With Distributed Energy Resources” was accepted to IEEE Trans. on Sustain. Energy, Apr. 2023.
 
-## 代表论文
+
+## Selected Papers
 -  L. Sang, Y. Xu, and H. Sun, “Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach，” IEEE Transactions on Sustainable Energy, Early Access, 2023.
 -  L. Sang, Y. Xu, Z. Yi, H. Long, and H. Sun, “Conservative Sparse Neural Network Embedded Frequency Constrained Unit Commitment With Distributed Energy Resources,”  IEEE Transactions on Sustainable Energy, Early Access, 2023.
 -  L. Sang, Y. Xu, and H. Sun, “Ensemble Provably Robust Learn-to-optimize Approach for Security-Constrained Unit Commitment, ” IEEE Transactions on Power Systems, Early Access, 2022.
@@ -21,20 +25,6 @@ Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
 -  L. Sang, Q. Hu, Y. Xu, and Z. Wu, “Privacy-preserving Hybrid Cloud Framework for Real-time TCL-based Demand Response,” IEEE Transactions on Cloud Computing, Early Access, 2022.
 -  H. Long, L. Sang, Z. Wu, and W. Gu, “Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve,” IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 938-946, Apr. 2020.
 
-完整论文详见[Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang)
+Full Paper List [Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang)
 
-## 主要荣誉
-- 2022年获清华大学校级二等奖学金
-- 2022年获CIECC最佳会议论文奖
-- 2021年获东南大学优秀硕士毕业生
-- 2020年获东南大学研究生硕士国家奖学金
-- 2019年获东南大学电气工程学院三好学生
-- 2018年获东南大学本科优秀毕业生
-- 2016年获东南大学优秀学生干部
-
-## 参与科研项目
-- 国家重点研发计划“漂浮式海上风电机组及海岛多能互补技术”
-- 中国科学院学部咨询评议项目”关于科学规划、开发我国水能资源，助力电力系统消纳新能源的建议“
-- 国家青年基金基金项目“基于组合在线学习居民负荷聚合控制”
-- 国家青年基金基金项目“面向数据特征的可再生能源区间预测与并网分层调度模型研究“
 
