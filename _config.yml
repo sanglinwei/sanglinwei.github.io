@@ -1,23 +1,9 @@
 title: 桑林卫 Linwei Sang
-email: sanglinwei21@163.com
-keyword: Electrical engineering
 url: https://sanglinwei.github.io/
-description: "清华大学2021级博士在读，IEEE student member, email: sanglinwei21@163.com."
+description: "Phd candidate in Tsinghua University; Visiting scholar in UC, Berkeley; E-mail: <sanglinwei@berkeley.edu>"
 google_analytics: 
 show_downloads: false
 logo: /images/sanglinwei21.png
 
 theme: jekyll-theme-minimal
-# theme: academic
 
-navbar-links:
-  About Me: 'wwww.baidu.com'
-  Reseach gate: 'wwww.baidu.com'
-  英文自我介绍: './gh-pages/self/md'
-
-# gem "academic"
-
-gems:
-  - jekyll-mentions
-  - jekyll-pagniate
-#   - jekyll-sitemap
