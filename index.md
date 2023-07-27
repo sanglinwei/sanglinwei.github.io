@@ -1,5 +1,5 @@
 [English version](https://sites.google.com/view/sanglinwei)
-[Chinese version](./ch_index.md)
+[Chinese version](./ch_index.html)
 ## 简介
 ### 目标
 清华大学21级博士生，聚焦设计联合机器学习和优化理论解决电力系统运行控制问题，提升电力系统运行的稳定性，经济性，和安全性。
