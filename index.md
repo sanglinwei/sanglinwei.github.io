@@ -12,15 +12,6 @@ Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
 - 工学硕士: 2018-2021年 就读于东南大学
 - 本科: 2014-2018年 就读于东南大学
 
-## 主要荣誉
-- 2022年获清华大学校级二等奖学金
-- 2022年获CIECC最佳会议论文奖
-- 2021年获东南大学优秀硕士毕业生
-- 2020年获东南大学研究生硕士国家奖学金
-- 2019年获东南大学电气工程学院三好学生
-- 2018年获东南大学本科优秀毕业生
-- 2016年获东南大学优秀学生干部
-
 ## 代表论文
 -  L. Sang, Y. Xu, and H. Sun, “Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach，” IEEE Transactions on Sustainable Energy, Early Access, 2023.
 -  L. Sang, Y. Xu, Z. Yi, H. Long, and H. Sun, “Conservative Sparse Neural Network Embedded Frequency Constrained Unit Commitment With Distributed Energy Resources,”  IEEE Transactions on Sustainable Energy, Early Access, 2023.
@@ -32,8 +23,18 @@ Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
 
 完整论文详见[Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang)
 
+## 主要荣誉
+- 2022年获清华大学校级二等奖学金
+- 2022年获CIECC最佳会议论文奖
+- 2021年获东南大学优秀硕士毕业生
+- 2020年获东南大学研究生硕士国家奖学金
+- 2019年获东南大学电气工程学院三好学生
+- 2018年获东南大学本科优秀毕业生
+- 2016年获东南大学优秀学生干部
+
 ## 参与科研项目
 - 国家重点研发计划“漂浮式海上风电机组及海岛多能互补技术”
 - 中国科学院学部咨询评议项目”关于科学规划、开发我国水能资源，助力电力系统消纳新能源的建议“
 - 国家青年基金基金项目“基于组合在线学习居民负荷聚合控制”
 - 国家青年基金基金项目“面向数据特征的可再生能源区间预测与并网分层调度模型研究“
+
