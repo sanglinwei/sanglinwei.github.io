@@ -1,5 +1,5 @@
 [Google Site](https://sites.google.com/view/sanglinwei) | 
-[Chinese version](./ch_index.html) | 
+[Chinese version](./ch_index.html) |
 [Publication](./gh-pages/publication.html)
 
 ## About Me
