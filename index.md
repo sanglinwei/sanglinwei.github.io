@@ -1,7 +1,7 @@
 
-[<font size="3">Google Site </font>](https://sites.google.com/view/sanglinwei) | 
-[<font size="3">Chinese version </font>](./ch_index.html) |
-[<font size="3">Publication </font>](./gh-pages/publication.html)
+[<font size="5">Google Site </font>](https://sites.google.com/view/sanglinwei) | 
+[<font size="5">Chinese version </font>](./ch_index.html) |
+[<font size="5">Publication </font>](./gh-pages/publication.html)
 
 
 ## About Me
