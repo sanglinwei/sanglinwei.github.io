@@ -6,7 +6,7 @@
 ## About Me
 I recieved the B.S and M.S degree from Southeast University, Nangjing, China with honors in 2018, 2021 respectively. I’m current pursing my Ph.d degree advised by Prof. Yinliang Xu in Tsinghua University, which belongs to EMS group head by Prof. Hongbin Sun. I am visiting UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/)
 
-I am working on leveraging the machine learning and optimization techniques to solve the power system problems. [CV](./gh-pages/resume4share.pdf)
+I am working on leveraging the machine learning and optimization techniques to solve the power system problems. [CV](./gh-pages/CV_LinweiSang.pdf)
 
 ## Recent News
 - I start my journey in University of California, Berkeley advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/) from May 4th, 2023.
