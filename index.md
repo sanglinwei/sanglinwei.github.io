@@ -3,7 +3,6 @@
 [<font size="3">Publication </font>](./gh-pages/publication.html)
 
 ---
----
 
 ## About Me
 I recieved the B.S and M.S degree from Southeast University, Nangjing, China with honors in 2018, 2021 respectively. I’m current pursing my Ph.d degree advised by Prof. Yinliang Xu in Tsinghua University, which belongs to EMS group head by Prof. Hongbin Sun. I am visiting UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/)
