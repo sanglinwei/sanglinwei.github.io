@@ -3,7 +3,6 @@
 [<font size="3">**Publication** </font>](./gh-pages/publication.html)
 
 ---
-
 ---
 
 ## About Me
