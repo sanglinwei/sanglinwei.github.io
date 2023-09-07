@@ -1,20 +1,18 @@
-[<font size="3">Google Site </font>](https://sites.google.com/view/sanglinwei) | 
-[<font size="3">Chinese version </font>](./ch_index.html) |
-[<font size="3">Publication </font>](./gh-pages/publication.html)
-
----
+[<font size="2.5">Google Site </font>](https://sites.google.com/view/sanglinwei) | 
+[<font size="2.5">Chinese version </font>](./ch_index.html) |
+[<font size="2.5">Publication </font>](./gh-pages/publication.html)
 
 ## About Me
-I recieved the B.S and M.S degree from Southeast University, Nangjing, China with honors in 2018, 2021 respectively. I’m current pursing my Ph.d degree advised by Prof. Yinliang Xu in Tsinghua University, which belongs to EMS group head by Prof. Hongbin Sun. I am visiting UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/)
+I recieved the B.S and M.S degree from Southeast University, Nangjing, China with honors in 2018, 2021 respectively. I’m current pursing my Ph.d degree advised by Prof. Yinliang Xu in Tsinghua University, which belongs to EMS group head by Prof. Hongbin Sun. I am visiting UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/).
 
-I am working on leveraging the machine learning and optimization techniques to solve the power system problems. [CV](./gh-pages/CV_LinweiSang.pdf)
+I am working on fusing learning and optimization to boost the sustainable power systems. [CV](./gh-pages/CV_LinweiSang.pdf)
 
 ## Recent News
 [May 2023] I start my journey in University of California, Berkeley advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/) from May 4th, 2023.
 
 [May 2023] Our paper “Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach,” was accepted to  IEEE Transactions on Sustain. Energy, May, 2023.
 
-[Apr., 2023] Our paper “Conservative Sparse Neural Network Embedded Frequency-Constrained Unit Commitment With Distributed Energy Resources” was accepted to IEEE Trans. on Sustain. Energy, Apr. 2023.
+[Apr. 2023] Our paper “Conservative Sparse Neural Network Embedded Frequency-Constrained Unit Commitment With Distributed Energy Resources” was accepted to IEEE Trans. on Sustain. Energy, Apr. 2023.
 
 
 ## Selected Papers
