@@ -8,11 +8,13 @@ I recieved the B.S and M.S degree from Southeast University, Nanjing, China with
 I am working on fusing learning and optimization to boost the sustainable power systems. [CV](./gh-pages/CV_LinweiSang.pdf)
 
 ## Recent News
+[Sept. 2023] Over paper "Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach" was accepted to IEEE Transactions on Power Systems.
+
 [May 2023] I start my journey in University of California, Berkeley advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/) from May 4th, 2023.
 
-[May 2023] Our paper “Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach,” was accepted to  IEEE Transactions on Sustain. Energy, May, 2023.
+[May 2023] Our paper “Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach,” was accepted to IEEE Transactions on Sustainable Energy, May, 2023.
 
-[Apr. 2023] Our paper “Conservative Sparse Neural Network Embedded Frequency-Constrained Unit Commitment With Distributed Energy Resources” was accepted to IEEE Trans. on Sustain. Energy, Apr. 2023.
+[Apr. 2023] Our paper “Conservative Sparse Neural Network Embedded Frequency-Constrained Unit Commitment With Distributed Energy Resources” was accepted to IEEE Transactions on Sustainable Energy, Apr. 2023.
 
 
 ## Selected Papers
