@@ -8,7 +8,7 @@ I recieved the B.S and M.S degree from Southeast University, Nanjing, China with
 I am working on fusing learning and optimization to boost the sustainable power systems. [CV](./gh-pages/CV_LinweiSang.pdf)
 
 ## Recent News
-[Sept. 2023] Over paper "Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach" was accepted to IEEE Transactions on Power Systems.
+[Sept. 2023] Our paper "Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach" was accepted to IEEE Transactions on Power Systems.
 
 [May 2023] I start my journey in University of California, Berkeley advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/) from May 4th, 2023.
 
