@@ -3,7 +3,7 @@
 ## Journal Papers
 
 ### --2023--
-[J12] **L. Sang**, Y. Xu, Wenchuan Wu, and Huan Long, ``Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach,''  was accepted to \emph{IEEE Transactions on Power Systems}, 2023.
+[J12] **L. Sang**, Y. Xu, Wenchuan Wu, and Huan Long, ``Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach,''  was accepted to *IEEE Transactions on Power Systems*, 2023.
 
 [J11] Z. Wang, **L. Sang**, Y. Xu, B. Wang, and H. Sun, "Improved Quantile Regression Based Approach for Renewable Power Generation Interval Prediction on Islands" was accepted to *CSEE Journal of Power and Energy Systems*.
 
