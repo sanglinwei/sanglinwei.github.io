@@ -45,7 +45,5 @@
 
 ## Submitted Papers
 
-[S2] **L. Sang**, Y. Xu, H. Sun, Q. Wu, and W. Wu, "Distribution Locational Marginal Emission for Carbon Alleviation in Distribution Networks: Formulation, Calculation, and Implication" submitted to *IEEE Transactions on Smart Grid*.
-
-[S1] **L. Sang**, Y. Xu, W. Wu, and H. Long, "Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach" submitted to *IEEE Transactions on Power Systems*.
+[S1] **L. Sang**, Y. Xu, H. Sun, Q. Wu, and W. Wu, "Distribution Locational Marginal Emission for Carbon Alleviation in Distribution Networks: Formulation, Calculation, and Implication" submitted to *IEEE Transactions on Smart Grid*.
 
