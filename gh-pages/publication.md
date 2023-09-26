@@ -1,6 +1,10 @@
 # Publication
 
 ## Journal Papers
+
+### --2023--
+[J12] **L. Sang**, Y. Xu, Wenchuan Wu, and Huan Long, ``Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach,''  was accepted to \emph{IEEE Transactions on Power Systems}, 2023.
+
 [J11] Z. Wang, **L. Sang**, Y. Xu, B. Wang, and H. Sun, "Improved Quantile Regression Based Approach for Renewable Power Generation Interval Prediction on Islands" was accepted to *CSEE Journal of Power and Energy Systems*.
 
 [J10] C. Huang, Q. Hu, **L. Sang**, et al. "A Review of Wildfire Mitigation Plans in Power Systems: Datasets, Model, and Industry Practice," *IEEE Transactions on Energy Markets, Policy and Regulation*, Early Access, 2023.
@@ -9,7 +13,9 @@
 
 [J8] **L. Sang**, Y. Xu, Z. Yi, L. Yang, H. Long, and H. Sun, "Conservative Sparse Neural Network Embedded Frequency Constrained Unit Commitment With Distributed Energy Resources," *IEEE Transactions on Sustainable Energy*, Early Access, 2023.
 
-[J7] Y. Wang, Z. Yan, **L. Sang**, et al. "Acceleration Framework and Solution Algorithm for Distribution System Restoration based on End-to-End Optimization Strategy," *IEEE Transactions on Power Systems*, Early Access, 2023.
+### --2022--
+
+[J7] Y. Wang, Z. Yan, **L. Sang**, et al. "Acceleration Framework and Solution Algorithm for Distribution System Restoration based on End-to-End Optimization Strategy," *IEEE Transactions on Power Systems*, Early Access, 2022.
 
 [J6] **L. Sang**, Y. Xu, and H. Sun. "Ensemble Provably Robust Learn-to-optimize Approach for Security-Constrained Unit Commitment", *IEEE Transactions on Power Systems*, Early Access, 2022.
 
@@ -19,7 +25,11 @@
 
 [J3] **L. Sang**, Q. Hu, Y. Xu, and Z. Wu, "Privacy-preserving Hybrid Cloud Framework for Real-time TCL-based Demand Response," *IEEE Transactions on Cloud Computing*, Early Access, 2022.
 
+### --2021--
+
 [J2] Z. Yi, Y. Xu, H. Wang, and **L. Sang**, "Coordinated Operation Strategy for a Virtual Power Plant With Multiple DER Aggregators," *IEEE Transactions on Sustainable Energy*, vol. 12, no. 4, pp. 2445-2458, Oct. 2021.
+
+### --2020--
 
 [J1] H. Long, **L. Sang**, Z. Wu, and W. Gu, "Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve," *IEEE Transactions on Sustainable Energy*, vol. 11, no. 2, pp. 938-946, Apr. 2020.
 
