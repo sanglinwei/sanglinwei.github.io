@@ -8,7 +8,7 @@ I recieved the B.S and M.S degree from Southeast University, Nanjing, China with
 I am working on fusing learning and optimization to boost the sustainable power systems. [CV](./gh-pages/CV_LinweiSang.pdf)
 
 ## Recent News
-[Sept. 2023] Our paper "Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach" was accepted to IEEE Transactions on Power Systems.
+[Sep. 2023] Our paper "Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach" was accepted to IEEE Transactions on Power Systems.
 
 [May 2023] I start my journey in University of California, Berkeley advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/) from May 4th, 2023.
 
@@ -18,6 +18,7 @@ I am working on fusing learning and optimization to boost the sustainable power 
 
 
 ## Selected Papers
+-  **L. Sang**, Y. Xu, W. Wu, and H. Long, “[Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach](https://ieeexplore.ieee.org/document/10264194), ” IEEE Transactions on Power Systems, Early Access, 2023.
 -  **L. Sang**, Y. Xu, and H. Sun, “[Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach](https://ieeexplore.ieee.org/document/10122721), ” IEEE Transactions on Sustainable Energy, Early Access, 2023. [Arxiv](https://arxiv.org/pdf/2305.13538.pdf)
 -  **L. Sang**, Y. Xu, Z. Yi, H. Long, and H. Sun, “[Conservative Sparse Neural Network Embedded Frequency Constrained Unit Commitment With Distributed Energy Resources](https://ieeexplore.ieee.org/document/10104114),”  IEEE Transactions on Sustainable Energy, Early Access, 2023.  [Arxiv](https://arxiv.org/abs/2304.10720)
 -  **L. Sang**, Y. Xu, and H. Sun, “[Ensemble Provably Robust Learn-to-optimize Approach for Security-Constrained Unit Commitment](https://ieeexplore.ieee.org/document/9964136), ” IEEE Transactions on Power Systems, Early Access, 2022.
