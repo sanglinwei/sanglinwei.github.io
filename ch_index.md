@@ -1,8 +1,10 @@
 [English version](https://sites.google.com/view/sanglinwei)
 
 ## 简介
+
 ### 目标
-清华大学21级博士生，聚焦设计联合机器学习和优化理论解决电力系统运行控制问题，提升电力系统运行的稳定性，经济性，和安全性。
+清华大学21级博士生，聚焦于融合学习和优化支撑电力系统系统的运行分析，从预测、调度、 和控制多个角度，提升电力系统运行的稳定性，经济性，和安全性。
+
 ### 研究兴趣
 Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
 
@@ -18,12 +20,12 @@ Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
 -  L. Sang, Y. Xu, and H. Sun, “Ensemble Provably Robust Learn-to-optimize Approach for Security-Constrained Unit Commitment, ” IEEE Transactions on Power Systems, Early Access, 2022.
 -  L. Sang, Y. Xu, H. Long, and W. Wu, “Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network, ” IEEE Transactions on Smart Grid, Early Access, 2022.
 -  L. Sang, Y. Xu, H. Long, Q. Hu, and H. Sun, “Electricity Price Prediction for Energy Storage System Arbitrage: A Decision-focused Approach,” IEEE Transactions on Smart Grid, vol. 13, no. 4, pp. 2822-2832, July 2022.
--  L. Sang, Q. Hu, Y. Xu, and Z. Wu, “Privacy-preserving Hybrid Cloud Framework for Real-time TCL-based Demand Response,” IEEE Transactions on Cloud Computing, Early Access, 2022.
 -  H. Long, L. Sang, Z. Wu, and W. Gu, “Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve,” IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 938-946, Apr. 2020.
 
 完整论文详见[Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang)
 
 ## 主要荣誉
+- 2023年获清华大学校级一等奖学金
 - 2022年获清华大学校级二等奖学金
 - 2022年获CIECC最佳会议论文奖
 - 2021年获东南大学优秀硕士毕业生
