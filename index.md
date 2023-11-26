@@ -1,4 +1,5 @@
 [<font size="2.5">Google Site </font>](https://sites.google.com/view/sanglinwei) | 
+[<font size="2.5">Research Interest </font>](./interest.html) |
 [<font size="2.5">Chinese version </font>](./ch_index.html) |
 [<font size="2.5">Publication </font>](./gh-pages/publication.html)
 
