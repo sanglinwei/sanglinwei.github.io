@@ -12,12 +12,12 @@ Related Papers:
 -  **L. Sang**, Y. Xu, H. Long, Q. Hu, and H. Sun, “[Electricity Price Prediction for Energy Storage System Arbitrage: A Decision-focused Approach](https://ieeexplore.ieee.org/document/9755891),” IEEE Transactions on Smart Grid, vol. 13, no. 4, pp. 2822-2832, July 2022.  [Arxiv](https://arxiv.org/abs/2305.00362)
 
 
-### Scheuling: Integrating Learning into Optimization
+### Scheduling: Integrating Learning into Optimization
 
 Related Papers:
 
 -  **L. Sang**, Y. Xu, and H. Sun, “[Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach](https://ieeexplore.ieee.org/document/10122721), ” IEEE Transactions on Sustainable Energy, Early Access, 2023. [Arxiv](https://arxiv.org/pdf/2305.13538.pdf)
--  **L. Sang**, Y. Xu, Z. Yi, H. Long, and H. Sun, “[Conservative Sparse Neural Network Embedded Frequency Constrained Unit Commitment With Distributed Energy Resources](https://ieeexplore.ieee.org/document/10104114),”  IEEE Transactions on Sustainable Energy, Early Access, 2023.  [Arxiv](https://arxiv.org/abs/2304.10720)
+-  **L. Sang**, Y. Xu, Z. Yi, L. Yang, H. Long, and H. Sun, “[Conservative Sparse Neural Network Embedded Frequency Constrained Unit Commitment With Distributed Energy Resources](https://ieeexplore.ieee.org/document/10104114),”  IEEE Transactions on Sustainable Energy, Early Access, 2023.  [Arxiv](https://arxiv.org/abs/2304.10720)
 
 
 ### Online Optimization: Integrating Learning and Optimization
