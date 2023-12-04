@@ -9,7 +9,7 @@ I recieved the B.S and M.S degree from Southeast University, Nanjing, China with
 I am working on fusing learning and optimization for sustainable power system analytics. [CV](./gh-pages/CV_LinweiSang.pdf)
 
 ## Recent News
-[Sept. 2023] Our paper "Carbon-aware Distribution Network Operation Approach via Fusing Learning and
+[Dec. 2023] Our paper "Carbon-aware Distribution Network Operation Approach via Fusing Learning and
 Optimization" was accepted to Proceedings of the CSEE (Chinese top journal).
 
 [Oct. 2023] Invited Talk by Sustainable Systems Lab in Stanford on "Sustainable Power System Analytics via Fusing Learning and Optimization";
