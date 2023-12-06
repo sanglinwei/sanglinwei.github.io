@@ -26,8 +26,8 @@ Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
 完整论文详见[Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang)
 
 ## 主要荣誉
-- 2023年获清华大学校级一等奖学金
-- 2022年获清华大学校级二等奖学金
+- 2023年获清华大学综合优秀一等奖学金
+- 2022年获清华大学综合优秀二等奖学金
 - 2022年获CIECC最佳会议论文奖
 - 2021年获东南大学优秀硕士毕业生
 - 2020年获东南大学研究生硕士国家奖学金
