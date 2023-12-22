@@ -4,7 +4,7 @@
 [<font size="2.5">Publication </font>](./gh-pages/publication.html)
 
 ## About Me
-I recieved the B.S and M.S degree from Southeast University, Nanjing, China with honors in 2018, 2021 respectively. I’m current pursing my Ph.d degree advised by Prof. Yinliang Xu in Tsinghua University, which belongs to EMS group head by Prof. Hongbin Sun. I am visiting UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/). I am also a research assistant in HIT.
+I recieved the B.S and M.S degree from Southeast University, Nanjing, China with honors in 2018, 2021 respectively. I’m current pursing my Ph.d degree advised by Prof. Yinliang Xu in Tsinghua University, which belongs to EMS group head by Prof. Hongbin Sun. I am visiting UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/). I am also a research assistant with HIT.
 
 I am working on fusing learning and optimization for sustainable power system analytics. [CV](./gh-pages/CV_LinweiSang.pdf)
 
@@ -19,9 +19,6 @@ Optimization" was accepted to Proceedings of the CSEE (Chinese top journal).
 [May 2023] I start my journey in University of California, Berkeley advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/) from May 4th, 2023.
 
 [May 2023] Our paper “Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach,” was accepted to IEEE Transactions on Sustainable Energy, May, 2023.
-
-[Apr. 2023] Our paper “Conservative Sparse Neural Network Embedded Frequency-Constrained Unit Commitment With Distributed Energy Resources” was accepted to IEEE Transactions on Sustainable Energy, Apr. 2023.
-
 
 ## Selected Papers
 -  **L. Sang**, Y. Xu, W. Wu, and H. Long, “[Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach](https://ieeexplore.ieee.org/document/10264194), ” IEEE Transactions on Power Systems, Early Access, 2023.
