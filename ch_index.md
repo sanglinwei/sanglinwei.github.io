@@ -16,13 +16,13 @@ Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
 
 ## 代表论文
 - 桑林卫，许银亮，孙宏斌，吴文传，“融合机器学习-优化的配电网低碳运行方法，中国电机工程学报，已录用，2023.
-- L. Sang, Y. Xu, W. Wu, and H. Long, “[Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach](https://ieeexplore.ieee.org/document/10264194), ” IEEE Transactions on Power Systems, Early Access, 2023.
--  L. Sang, Y. Xu, and H. Sun, “Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach，” IEEE Transactions on Sustainable Energy, Early Access, 2023.
--  L. Sang, Y. Xu, Z. Yi, H. Long, and H. Sun, “Conservative Sparse Neural Network Embedded Frequency Constrained Unit Commitment With Distributed Energy Resources,”  IEEE Transactions on Sustainable Energy, Early Access, 2023.
--  L. Sang, Y. Xu, and H. Sun, “Ensemble Provably Robust Learn-to-optimize Approach for Security-Constrained Unit Commitment, ” IEEE Transactions on Power Systems, Early Access, 2022.
--  L. Sang, Y. Xu, H. Long, and W. Wu, “Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network, ” IEEE Transactions on Smart Grid, Early Access, 2022.
--  L. Sang, Y. Xu, H. Long, Q. Hu, and H. Sun, “Electricity Price Prediction for Energy Storage System Arbitrage: A Decision-focused Approach,” IEEE Transactions on Smart Grid, vol. 13, no. 4, pp. 2822-2832, July 2022.
--  H. Long, L. Sang, Z. Wu, and W. Gu, “Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve,” IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 938-946, Apr. 2020.
+- L. Sang, Y. Xu, W. Wu, and H. Long, “Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach” IEEE Transactions on Power Systems, Early Access, 2023.
+- L. Sang, Y. Xu, and H. Sun, “Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach，” IEEE Transactions on Sustainable Energy, Early Access, 2023.
+- L. Sang, Y. Xu, Z. Yi, H. Long, and H. Sun, “Conservative Sparse Neural Network Embedded Frequency Constrained Unit Commitment With Distributed Energy Resources,”  IEEE Transactions on Sustainable Energy, Early Access, 2023.
+- L. Sang, Y. Xu, and H. Sun, “Ensemble Provably Robust Learn-to-optimize Approach for Security-Constrained Unit Commitment, ” IEEE Transactions on Power Systems, Early Access, 2022.
+- L. Sang, Y. Xu, H. Long, and W. Wu, “Safety-aware Semi-end-to-end Coordinated Decision Model for Voltage Regulation in Active Distribution Network, ” IEEE Transactions on Smart Grid, Early Access, 2022.
+- L. Sang, Y. Xu, H. Long, Q. Hu, and H. Sun, “Electricity Price Prediction for Energy Storage System Arbitrage: A Decision-focused Approach,” IEEE Transactions on Smart Grid, vol. 13, no. 4, pp. 2822-2832, July 2022.
+- H. Long, L. Sang, Z. Wu, and W. Gu, “Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve,” IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 938-946, Apr. 2020.
 
 完整论文详见[Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang)
 
