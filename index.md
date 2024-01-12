@@ -18,10 +18,6 @@ Optimization" was accepted to Proceedings of the CSEE (Chinese top journal).
 
 [Sep. 2023] Our paper "Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach" was accepted to IEEE Transactions on Power Systems.
 
-[May 2023] I start my journey in University of California, Berkeley advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/) from May 4th, 2023.
-
-[May 2023] Our paper “Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach,” was accepted to IEEE Transactions on Sustainable Energy, May, 2023.
-
 ## Selected Papers
 -  **L. Sang**, Y. Xu, W. Wu, and H. Long, “[Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach](https://ieeexplore.ieee.org/document/10264194), ” IEEE Transactions on Power Systems, Early Access, 2023.
 -  **L. Sang**, Y. Xu, and H. Sun, “[Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach](https://ieeexplore.ieee.org/document/10122721), ” IEEE Transactions on Sustainable Energy, Early Access, 2023. [Arxiv](https://arxiv.org/pdf/2305.13538.pdf)
