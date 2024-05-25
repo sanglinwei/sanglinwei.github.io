@@ -9,6 +9,8 @@ I received the B.S and M.S degree from Southeast University, Nanjing, China with
 I am working on fusing learning and optimization for sustainable power system analytics. [CV](./gh-pages/CV_LinweiSang.pdf)
 
 ## Recent News
+[May 2024] Start Research Intern in the MinD Team of DAMO Academy, Alibaba, Hangzhou China as LLM research intern under supervision of Wotao Yin; 
+
 [Jan. 2024] Serve as a conference organizer for the Special Section of "AI + Modern Power Systems Operation" in CIEEC 2024;
 
 [Dec. 2023] Our paper "Carbon-aware Distribution Network Operation Approach via Fusing Learning and
