@@ -16,9 +16,9 @@ I am working on fusing learning and optimization for sustainable power system an
 [Dec. 2023] Our paper "Carbon-aware Distribution Network Operation Approach via Fusing Learning and
 Optimization" was accepted to Proceedings of the CSEE (Chinese top journal).
 
-[Oct. 2023] Invited Talk by Sustainable Systems Lab in Stanford on "Sustainable Power System Analytics via Fusing Learning and Optimization";
+% [Oct. 2023] Invited Talk by Sustainable Systems Lab in Stanford on "Sustainable Power System Analytics via Fusing Learning and Optimization";
 
-[Sep. 2023] Our paper "Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach" was accepted to IEEE Transactions on Power Systems.
+% [Sep. 2023] Our paper "Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach" was accepted to IEEE Transactions on Power Systems.
 
 ## Selected Papers
 -  **L. Sang**, Y. Xu, W. Wu, and H. Long, “[Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach](https://ieeexplore.ieee.org/document/10264194), ” IEEE Transactions on Power Systems, Early Access, 2023.
