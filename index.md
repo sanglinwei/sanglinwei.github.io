@@ -6,7 +6,7 @@
 ## About Me
 I received the B.S and M.S degree from Southeast University, Nanjing, China with honors in 2018, 2021 respectively. I’m current pursing my Ph.d degree advised by Prof. Yinliang Xu in Tsinghua University, which belongs to EMS group head by Prof. Hongbin Sun. I am visiting UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/). I am also a research assistant with HIT.
 
-I am working on fusing learning and optimization for sustainable power system analytics. [CV](./gh-pages/CV_LinweiSang.pdf)
+I am working on fusing artificial intelligence and optimization for sustainable power system analytics. [CV](./gh-pages/CV_LinweiSang.pdf)
 
 ## Recent News
 [May 2024] Start Research Intern in the MinD Team of DAMO Academy, Alibaba, Hangzhou China as LLM research intern under supervision of Wotao Yin; 
