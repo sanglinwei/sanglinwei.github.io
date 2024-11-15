@@ -9,9 +9,11 @@ I received the B.S and M.S degree from Southeast University, Nanjing, China with
 I am working on fusing artificial intelligence and optimization for sustainable power system analytics. [CV](./gh-pages/CV_LinweiSang.pdf)
 
 ## Recent News
+
+[Oct. 2024] Recieve the Doctoral National Scholarship in Tsinghua University;
+
 [May 2024] Start Research Intern in the MinD Team of DAMO Academy, Alibaba, Hangzhou China as LLM research intern under supervision of Wotao Yin; 
 
-[Jan. 2024] Serve as a conference organizer for the Special Section of "AI + Modern Power Systems Operation" in CIEEC 2024;
 
 ## Selected Papers
 -  **L. Sang**, Y. Xu, W. Wu, and H. Long, “[Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach](https://ieeexplore.ieee.org/document/10264194), ” IEEE Transactions on Power Systems, Early Access, 2023.
