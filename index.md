@@ -10,6 +10,8 @@ I am working on fusing artificial intelligence and optimization for sustainable 
 
 ## Recent News
 
+[Dec. 2024] Defense my doctoral dissertation in Tsinghua University;
+
 [Oct. 2024] Recieve the Doctoral National Scholarship in Tsinghua University;
 
 [May 2024] Start Research Intern in the MinD Team of DAMO Academy, Alibaba, Hangzhou China as LLM research intern under supervision of Wotao Yin; 
