@@ -3,10 +3,12 @@
 ## 简介
 
 ### 目标
-清华大学21级博士生，聚焦于融合学习和优化支撑电力系统系统的运行分析，从预测、调度、 和控制多个角度，提升电力系统运行的稳定性，经济性，和安全性。
+
+清华大学电气工程博士，聚焦于融合人工智能和运筹理论支撑电力系统系统的运行分析，从预测、调度、 和控制多个角度，提升电力系统运行的稳定性，经济性，和安全性。
 
 ### 研究兴趣
-Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
+
+Semo-end-to-end model, Learn-to-optimize, and Constraint learning, Large language model.
 
 ## 教育背景
 - 博士在读: 2021-至今 就读于清华大学
@@ -28,6 +30,8 @@ Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
 完整论文详见[Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang)
 
 ## 主要荣誉
+- 2024年获清华大学研究生博士国家奖学金
+- 2024年获中国电力年度论文奖
 - 2023年获清华大学综合优秀一等奖学金
 - 2022年获清华大学综合优秀二等奖学金
 - 2022年获CIECC最佳会议论文奖
@@ -38,6 +42,9 @@ Semo-end-to-end model, Learn-to-optimize, and Constraint learning.
 - 2016年获东南大学优秀学生干部
 
 ## 参与科研项目
+- 国家重点研发计划“分布式可再生综合能源系统设计和能量管理一体化平台技术”
+- 国家重点研发计划“新型配电系统运行优化人工智能大模型关键技术及系统”
+- 国家重点研发计划“模型数据交互驱动的电网前瞻调度优化决策技术研究”
 - 国家重点研发计划“漂浮式海上风电机组及海岛多能互补技术”
 - 中国科学院学部咨询评议项目”关于科学规划、开发我国水能资源，助力电力系统消纳新能源的建议“
 - 国家青年基金基金项目“基于组合在线学习居民负荷聚合控制”
