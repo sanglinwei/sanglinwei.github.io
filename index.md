@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0d9e6110-11a0-46df-9d4b-cdacf6f956a6)[<font size="2.5">Google Site </font>](https://sites.google.com/view/sanglinwei) | 
+[<font size="2.5">Google Site </font>](https://sites.google.com/view/sanglinwei) | 
 [<font size="2.5">Research Interest </font>](./interest.html) |
 [<font size="2.5">Chinese version </font>](./ch_index.html) |
 [<font size="2.5">Publication </font>](./gh-pages/publication.html)
