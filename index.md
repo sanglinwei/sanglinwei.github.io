@@ -1,23 +1,26 @@
-[<font size="2.5">Google Site </font>](https://sites.google.com/view/sanglinwei) | 
+![image](https://github.com/user-attachments/assets/0d9e6110-11a0-46df-9d4b-cdacf6f956a6)[<font size="2.5">Google Site </font>](https://sites.google.com/view/sanglinwei) | 
 [<font size="2.5">Research Interest </font>](./interest.html) |
 [<font size="2.5">Chinese version </font>](./ch_index.html) |
 [<font size="2.5">Publication </font>](./gh-pages/publication.html)
 
 ## About Me
-I received the B.S and M.S degree from Southeast University, Nanjing, China with honors in 2018, 2021 respectively. I’m current pursing my Ph.d degree advised by Prof. Yinliang Xu in Tsinghua University, which belongs to EMS group head by Prof. Hongbin Sun. I am visiting UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/). I am also a research intern on LLM for power systems in DAMO Academy, Alibaba.
+I received the B.S and M.S degree from Southeast University, Nanjing, China with honors in 2018, 2021 respectively. I’m current pursing my Ph.d degree advised by Prof. Yinliang Xu in Tsinghua University, which belongs to EMS group head by Prof. Hongbin Sun. I am visiting UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/). I am also a research intern on LLM for power systems supervised by Wotao Yin in Decision Intelligence Lab, DAMO Academy, Alibaba.
 
-I am working on fusing artificial intelligence and operation research for sustainable power system analytics. [CV](./gh-pages/CV_LinweiSang.pdf)
+I am working on fusing artificial intelligence and operation research for sustainable power system analytics from prediction, to scheduling, to controling. [CV](./gh-pages/CV_LinweiSang.pdf)
 
 ## Recent News
 
 [Dec. 2024] Defense my doctoral dissertation in Tsinghua University;
 
+[Nov. 2024] Serve as a session chair in EI2 2024;
+
 [Oct. 2024] Recieve the Doctoral National Scholarship in Tsinghua University;
 
-[May 2024] Start Research Intern in the MinD Team of DAMO Academy, Alibaba, Hangzhou China as LLM research intern under supervision of Wotao Yin; 
+[May 2024] Start Research Intern in the MinD Team of DAMO Academy, Alibaba, Hangzhou, China as LLM research intern under supervision of Wotao Yin; 
 
 
 ## Selected Papers
+
 -  **L. Sang**, Y. Xu, W. Wu, and H. Long, “[Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach](https://ieeexplore.ieee.org/document/10264194), ” IEEE Transactions on Power Systems, Early Access, 2023.
 -  **L. Sang**, Y. Xu, and H. Sun, “[Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach](https://ieeexplore.ieee.org/document/10122721), ” IEEE Transactions on Sustainable Energy, Early Access, 2023. [Arxiv](https://arxiv.org/pdf/2305.13538.pdf)
 -  **L. Sang**, Y. Xu, Z. Yi, H. Long, and H. Sun, “[Conservative Sparse Neural Network Embedded Frequency Constrained Unit Commitment With Distributed Energy Resources](https://ieeexplore.ieee.org/document/10104114),”  IEEE Transactions on Sustainable Energy, Early Access, 2023.  [Arxiv](https://arxiv.org/abs/2304.10720)
