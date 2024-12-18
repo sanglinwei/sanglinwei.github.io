@@ -30,6 +30,6 @@ I am working on fusing artificial intelligence and operation research for sustai
 -  **L. Sang**, Q. Hu, Y. Xu, and Z. Wu, “[Privacy-preserving Hybrid Cloud Framework for Real-time TCL-based Demand Response](https://ieeexplore.ieee.org/document/9677899),” IEEE Transactions on Cloud Computing, Early Access, 2022. 
 -  H. Long, **L. Sang**, Z. Wu, and W. Gu, “[Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve](https://ieeexplore.ieee.org/document/8703080),” IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 938-946, Apr. 2020. [Arxiv](https://arxiv.org/abs/2307.08539)
 
-Full Paper can refer to [Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang) .
+Full publication list could refer to [Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang) .
 
 
