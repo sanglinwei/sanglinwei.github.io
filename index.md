@@ -4,9 +4,12 @@
 [<font size="2.5">Publication </font>](./gh-pages/publication.html)
 
 ## About Me
-I received the B.S and M.S degree from Southeast University, Nanjing, China with honors in 2018, 2021 respectively. I’m current pursing my Ph.d degree advised by Prof. Yinliang Xu in Tsinghua University, which belongs to EMS group head by Prof. Hongbin Sun. I am visiting UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/). I am also a research intern on LLM for power systems supervised by Wotao Yin in Decision Intelligence Lab, DAMO Academy, Alibaba.
 
-I am working on fusing artificial intelligence and operation research for sustainable power system analytics from prediction, to scheduling, to controling. [CV](./gh-pages/CV_LinweiSang.pdf)
+He recieved Ph.d degree, majoring in electrical engineering, from Tsinghua University and is part of Energy Management System (EMS) group head by Prof. Hongbin Sun. He was a visiting scholar in UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/). He received the B.S and M.S degree from Southeast University, Nanjing, China with honors in 2018, 2021 respectively.  He is also a research intern on LLM for power systems supervised by Wotao Yin in Decision Intelligence Lab, DAMO Academy, Alibaba. 
+
+He is working on fusing artificial intelligence and operation research for sustainable power system analytics from prediction, to scheduling, to controling. [CV](./gh-pages/CV_LinweiSang.pdf)
+
+On the job market.
 
 ## Recent News
 
