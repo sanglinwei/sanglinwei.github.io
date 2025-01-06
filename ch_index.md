@@ -8,7 +8,7 @@
 
 ### 研究兴趣
 
-Semo-end-to-end model, Learn-to-optimize, and Constraint learning, Large language model.
+Semi-end-to-end model, Learn-to-optimize, and Constraint learning, Large language model.
 
 ## 教育背景
 - 博士在读: 2021-至今 就读于清华大学
