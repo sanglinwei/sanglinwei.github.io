@@ -13,7 +13,7 @@ On the job market.
 
 ## Recent News
 
-[Dec. 2024] Defense my doctoral dissertation in Tsinghua University;
+[Dec. 2024] Defend my doctoral dissertation in Tsinghua University, Dr. Sang officially;
 
 [Nov. 2024] Serve as a session chair in EI2 2024;
 
