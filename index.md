@@ -9,7 +9,6 @@ He recieved Ph.d degree, majoring in electrical engineering, from Tsinghua Unive
 
 He is working on fusing artificial intelligence and operation research for sustainable power system analytics from prediction, to scheduling, to controling. [CV](./gh-pages/CV_LinweiSang.pdf)
 
-On the job market.
 
 ## Recent News
 
