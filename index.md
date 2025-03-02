@@ -12,7 +12,7 @@ He is working on fusing artificial intelligence and operation research for susta
 
 ## Recent News
 
-[Feb. 2024] I am glad to annouce that I have joined Southeast University as Lecturer;
+[Feb. 2025] I am glad to annouce that I have joined Southeast University as Lecturer;
 
 [Dec. 2024] Defend my doctoral dissertation in Tsinghua University, Dr. Sang officially;
 
