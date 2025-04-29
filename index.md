@@ -14,6 +14,8 @@ He is working on fusing artificial intelligence and operation research for susta
  
 [Apr. 2025] Distribution Locational Marginal Emission for Carbon Alleviation in Distribution Networks: Formulation, Calculation, and Implication was accepted to IEEE Transactions on Automation Science and Engineering; 
 
+[Apr. 2025] Serve as a session chair in PESSE 2025;
+
 [Feb. 2025] I am glad to annouce that I have joined Southeast University as Lecturer;
 
 [Dec. 2024] Defend my doctoral dissertation in Tsinghua University, Dr. Sang officially;
