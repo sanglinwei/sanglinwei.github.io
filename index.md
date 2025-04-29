@@ -20,12 +20,6 @@ He is working on fusing artificial intelligence and operation research for susta
 
 [Dec. 2024] Defend my doctoral dissertation in Tsinghua University, Dr. Sang officially;
 
-[Nov. 2024] Serve as a session chair in EI2 2024;
-
-[Oct. 2024] Recieve the Doctoral National Scholarship in Tsinghua University;
-
-[May 2024] Start Research Intern in the MinD Team of DAMO Academy, Alibaba, Hangzhou, China as LLM research intern under supervision of Wotao Yin; 
-
 
 ## Selected Papers
 
