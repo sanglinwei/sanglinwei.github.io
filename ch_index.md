@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/14a0b1ca-93a5-4ff9-803f-510b5a11c97b)[English version](https://sites.google.com/view/sanglinwei)
 
 ## 简介
 
