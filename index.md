@@ -11,6 +11,8 @@ He is working on fusing artificial intelligence and operation research for susta
 
 
 ## Recent News
+
+[May 2025] Received Outstanding Doctoral Dissertation Award and Outstanding Graduate Student Award in Tsinghua University;
  
 [Apr. 2025] Distribution Locational Marginal Emission for Carbon Alleviation in Distribution Networks: Formulation, Calculation, and Implication was accepted to IEEE Transactions on Automation Science and Engineering; 
 
