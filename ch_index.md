@@ -1,4 +1,4 @@
-[English version](https://sites.google.com/view/sanglinwei)
+![image](https://github.com/user-attachments/assets/14a0b1ca-93a5-4ff9-803f-510b5a11c97b)[English version](https://sites.google.com/view/sanglinwei)
 
 ## 简介
 
@@ -42,6 +42,7 @@ Semi-end-to-end model, Learn-to-optimize, and Constraint learning, Large languag
 - 2016年获东南大学优秀学生干部
 
 ## 参与科研项目
+- 国家科技重大专项计划“新型配电系统多主体随机博弈与自适应决策技术”
 - 国家重点研发计划“分布式可再生综合能源系统设计和能量管理一体化平台技术”
 - 国家重点研发计划“新型配电系统运行优化人工智能大模型关键技术及系统”
 - 国家重点研发计划“模型数据交互驱动的电网前瞻调度优化决策技术研究”
