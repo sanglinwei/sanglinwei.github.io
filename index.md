@@ -5,23 +5,21 @@
 
 ## About Me
 
-He is a lecturer at the school of electrical engineering in Southeast University. He recieved Ph.d degree, majoring in electrical engineering, from Tsinghua University and is part of Energy Management System (EMS) group head by Prof. Hongbin Sun. He was a visiting scholar in UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/). He received the B.S and M.S degree from Southeast University, Nanjing, China with honors in 2018, 2021 respectively.  He is also a research intern on LLM for power systems supervised by Wotao Yin in Decision Intelligence Lab, DAMO Academy, Alibaba. 
+He is a lecturer/Assistant Professor at the school of electrical engineering in Southeast University. He recieved Ph.d degree, majoring in electrical engineering, from Tsinghua University and is part of Energy Management System (EMS) group head by Prof. Hongbin Sun. He was a visiting scholar in UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/). He received the B.S and M.S degree from Southeast University, Nanjing, China with honors in 2018, 2021 respectively.  He is also a research intern on LLM for power systems supervised by Dr. Wotao Yin in Decision Intelligence Lab, DAMO Academy, Alibaba. 
 
 He is working on fusing artificial intelligence and operation research for sustainable power system analytics from prediction, to scheduling, to controling. [CV](./gh-pages/CV_LinweiSang.pdf)
 
-
 ## Recent News
 
-[Jun. 2025] I am glad to recieve the Tsinghua University outstanding doctoral student award and Tsinghua University outstanding doctoral dissertation.
+[July. 2025] Our paper recieved the recipient of the 2025 IEEE PES PrizePaper Award; 
+
+[Jun. 2025] I am glad to recieve the Tsinghua University outstanding doctoral student award and Tsinghua University outstanding doctoral dissertation;
 
 [Apr. 2025] Distribution Locational Marginal Emission for Carbon Alleviation in Distribution Networks: Formulation, Calculation, and Implication was accepted to IEEE Transactions on Automation Science and Engineering; 
 
 [Apr. 2025] Serve as a session chair in PESSE 2025;
 
 [Feb. 2025] I am glad to annouce that I have joined Southeast University as Lecturer;
-
-[Dec. 2024] Defend my doctoral dissertation in Tsinghua University, Dr. Sang officially;
-
 
 ## Selected Papers
 
