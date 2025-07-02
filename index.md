@@ -11,7 +11,7 @@ He is working on fusing artificial intelligence and operation research for susta
 
 ## Recent News
 
-[July. 2025] Our paper recieved the recipient of the 2025 IEEE PES PrizePaper Award; 
+[Jul. 2025] Our paper recieved the recipient of the 2025 IEEE PES PrizePaper Award; 
 
 [Jun. 2025] I am glad to recieve the Tsinghua University outstanding doctoral student award and Tsinghua University outstanding doctoral dissertation;
 
