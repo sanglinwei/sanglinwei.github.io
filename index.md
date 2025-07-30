@@ -11,7 +11,7 @@ He is working on fusing artificial intelligence and operation research for susta
 
 ## Recent News
 
-[Jul. 2025] Our paper recieved the recipient of the 2025 IEEE PES PrizePaper Award; 
+[Jul. 2025] Our paper recieved the recipient of the 2025 IEEE PES Prize Paper Award; 
 
 [Jun. 2025] I am glad to recieve the Tsinghua University outstanding doctoral student award and Tsinghua University outstanding doctoral dissertation;
 
@@ -22,7 +22,7 @@ He is working on fusing artificial intelligence and operation research for susta
 [Feb. 2025] I am glad to annouce that I have joined Southeast University as Lecturer;
 
 ## Selected Papers
-
+-  **L. Sang** "[Distribution Locational Marginal Emission for Carbon Alleviation in Distribution Networks: Formulation, Calculation, and Implication]", Early Access, 2023.
 -  **L. Sang**, Y. Xu, W. Wu, and H. Long, “[Online Voltage Regulation of Active Distribution Networks: A Deep Neural Encoding-Decoding Approach](https://ieeexplore.ieee.org/document/10264194), ” IEEE Transactions on Power Systems, Early Access, 2023.
 -  **L. Sang**, Y. Xu, and H. Sun, “[Encoding Carbon Emission Flow in Energy Management: A Compact Constraint Learning Approach](https://ieeexplore.ieee.org/document/10122721), ” IEEE Transactions on Sustainable Energy, Early Access, 2023. [Arxiv](https://arxiv.org/pdf/2305.13538.pdf)
 -  **L. Sang**, Y. Xu, Z. Yi, H. Long, and H. Sun, “[Conservative Sparse Neural Network Embedded Frequency Constrained Unit Commitment With Distributed Energy Resources](https://ieeexplore.ieee.org/document/10104114),”  IEEE Transactions on Sustainable Energy, Early Access, 2023.  [Arxiv](https://arxiv.org/abs/2304.10720)
