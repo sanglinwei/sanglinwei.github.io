@@ -11,15 +11,15 @@ He is working on fusing artificial intelligence and operation research for susta
 
 ## Recent News
 
+[Aug. 2025] Our paper "RIS-Assisted Communications: A Comprehensive Study for Far- and Near-Field Scenarios" was accepted to IEEE Transactions on Cognitive Communications and Networking;
+
+[Aug. 2025] I am glad to annouce that I have been promoted to Research Associate Professor in Southeast University;
+
 [Jul. 2025] Our paper recieved the recipient of the 2025 IEEE PES Prize Paper Award; 
 
-[Jun. 2025] I am glad to recieve the Tsinghua University outstanding doctoral student award and Tsinghua University outstanding doctoral dissertation;
+[Jun. 2025] I am glad to recieve the Tsinghua University outstanding doctoral student award and Tsinghua University outstanding doctoral dissertation award;
 
 [Apr. 2025] Distribution Locational Marginal Emission for Carbon Alleviation in Distribution Networks: Formulation, Calculation, and Implication was accepted to IEEE Transactions on Automation Science and Engineering; 
-
-[Apr. 2025] Serve as a session chair in PESSE 2025;
-
-[Feb. 2025] I am glad to annouce that I have joined Southeast University as Lecturer;
 
 ## Selected Papers
 -  **L. Sang**, Y. Xu, H. Sun, Z. Wu, Q. Wu, and W. Wu, "[Distribution Locational Marginal Emission for Carbon Alleviation in Distribution Networks: Formulation, Calculation, and Implication](https://ieeexplore.ieee.org/document/10981773)", IEEE Transactions on Automation Science and Engineering, Early Access, 2025.
@@ -33,6 +33,7 @@ He is working on fusing artificial intelligence and operation research for susta
 -  H. Long, **L. Sang**, Z. Wu, and W. Gu, “[Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve](https://ieeexplore.ieee.org/document/8703080),” IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 938-946, Apr. 2020. [Arxiv](https://arxiv.org/abs/2307.08539)
 
 Full publication list could refer to [Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang) .
+
 
 
 
