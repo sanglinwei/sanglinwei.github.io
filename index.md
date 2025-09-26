@@ -13,7 +13,7 @@ He is working on fusing artificial intelligence and operation research for susta
 
 [Aug. 2025] Our paper "RIS-Assisted Communications: A Comprehensive Study for Far- and Near-Field Scenarios" was accepted to IEEE Transactions on Cognitive Communications and Networking;
 
-[Aug. 2025] I am glad to annouce that I have been promoted to Research Associate Professor in Southeast University;
+[Aug. 2025] I am glad to annouce that I have been promoted to Associate Professor in Southeast University;
 
 [Jul. 2025] Our paper recieved the recipient of the 2025 IEEE PES Prize Paper Award; 
 
@@ -33,6 +33,7 @@ He is working on fusing artificial intelligence and operation research for susta
 -  H. Long, **L. Sang**, Z. Wu, and W. Gu, “[Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve](https://ieeexplore.ieee.org/document/8703080),” IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 938-946, Apr. 2020. [Arxiv](https://arxiv.org/abs/2307.08539)
 
 Full publication list could refer to [Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang) .
+
 
 
 
