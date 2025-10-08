@@ -5,7 +5,7 @@
 
 ## About Me
 
-He is an Associate Professor at the school of electrical engineering in Southeast University. He recieved Ph.d degree, majoring in electrical engineering, from Tsinghua University and is part of Energy Management System (EMS) group head by Prof. Hongbin Sun. He was a visiting scholar in UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/). He received the B.S and M.S degree from Southeast University, Nanjing, China with honors in 2018, 2021 respectively.  He is also a research intern on LLM for power systems supervised by Dr. Wotao Yin in Decision Intelligence Lab, DAMO Academy, Alibaba. 
+He is an associate professor at the school of electrical engineering in Southeast University, Nanjing, China. He recieved Ph.d degree, majoring in electrical engineering, from Tsinghua University and is part of Energy Management System (EMS) group head by Prof. Hongbin Sun. He was a visiting scholar in UC, Berkeley, advised by Prof. [Shmuel S. Oren](https://oren.ieor.berkeley.edu/). He received the B.S and M.S degree from Southeast University, Nanjing, China with honors in 2018, 2021 respectively.  He is also a research intern on LLM for power systems supervised by Dr. Wotao Yin in Decision Intelligence Lab, DAMO Academy, Alibaba. 
 
 He is working on fusing artificial intelligence and operation research for sustainable power system analytics from prediction, to scheduling, to controling. [CV](./gh-pages/CV_LinweiSang.pdf)
 
@@ -33,6 +33,7 @@ He is working on fusing artificial intelligence and operation research for susta
 -  H. Long, **L. Sang**, Z. Wu, and W. Gu, “[Image-Based Abnormal Data Detection and Cleaning Algorithm via Wind Power Curve](https://ieeexplore.ieee.org/document/8703080),” IEEE Transactions on Sustainable Energy, vol. 11, no. 2, pp. 938-946, Apr. 2020. [Arxiv](https://arxiv.org/abs/2307.08539)
 
 Full publication list could refer to [Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang) .
+
 
 
 
