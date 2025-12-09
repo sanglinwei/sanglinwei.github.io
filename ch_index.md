@@ -3,14 +3,14 @@
 
 ### 个人情况
 
-东南大学电气工程学院讲师，清华大学电气工程博士，聚焦于融合人工智能和运筹理论支撑电力系统系统的运行分析，从预测、调度、 和控制多个角度，提升电力系统运行的稳定性，经济性，和安全性。
+东南大学电气工程学院副教授，清华大学电气工程博士，聚焦于融合人工智能和运筹理论支撑电力系统系统的运行分析，从预测、调度、和控制多个角度，提升电力系统运行的稳定性，经济性，和安全性。
 
 ### 研究兴趣
 
 Semi-end-to-end model, Learn-to-optimize, and Constraint learning, Large language model.
 
 ## 教育背景
-- 博士: 2021-2024 清华大学
+- 博士: 2021-2024年 清华大学
 - 访学：2023-至今 加州大学伯克利分校
 - 工学硕士: 2018-2021年 就读于东南大学
 - 本科: 2014-2018年 就读于东南大学
@@ -29,6 +29,8 @@ Semi-end-to-end model, Learn-to-optimize, and Constraint learning, Large languag
 完整论文详见[Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang)
 
 ## 主要荣誉
+- 2025年获清华大学博士优秀毕业生
+- 2025年获清华大学优秀博士学位论文
 - 2024年获清华大学研究生博士国家奖学金
 - 2024年获中国电力年度论文奖
 - 2023年获清华大学综合优秀一等奖学金
@@ -40,8 +42,11 @@ Semi-end-to-end model, Learn-to-optimize, and Constraint learning, Large languag
 - 2018年获东南大学本科优秀毕业生
 - 2016年获东南大学优秀学生干部
 
+## 主持科研项目
+- 国自然青年基金C类
+- 全重实验室项目
+
 ## 参与科研项目
-- 国家科技重大专项计划“新型配电系统多主体随机博弈与自适应决策技术”
 - 国家重点研发计划“分布式可再生综合能源系统设计和能量管理一体化平台技术”
 - 国家重点研发计划“新型配电系统运行优化人工智能大模型关键技术及系统”
 - 国家重点研发计划“模型数据交互驱动的电网前瞻调度优化决策技术研究”
