@@ -7,7 +7,7 @@
 
 ### 研究兴趣
 
-Semi-end-to-end model, Learn-to-optimize, and Constraint learning, Large language model.
+Semi-end-to-end model, Learn-to-optimize, Constraint learning, Large language model.
 
 ## 教育背景
 - 2021-2024年 清华大学 工学博士；
