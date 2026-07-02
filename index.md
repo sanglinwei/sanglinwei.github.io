@@ -13,6 +13,8 @@ He is working on fusing artificial intelligence and operation research for susta
 
 [Jul. 2026] Our paper "Robust Coordinated Prescriptive Power System Dispatch: Bridging Adjustable Robust OPF and Multiple Probabilistic Predictions" was accepted to IEEE Transactions on Sustainable Energy. Congrats to Xinshu :-)
 
+[Jun. 2026] Our paper "Projection-free Safe and Stable Reinforcement Learning for Adaptive Frequency Control" was accepted to IEEE Control Systems Letters, and "An Efficient Algorithm to Calculate Locational Marginal Emissions in ACOPF via Adjoint Optimization Reformulation" was accepted to IEEE Power Engineering Letters.
+
 [Mar. 2026] Our paper "Explainable Optimal Vehicle Charging Strategy in Power Distribution Networks via Tree-based Transportation Network Surrogates" was accepted to IEEE Transactions on Smart Grid. Congrats to Yuhang :-)
 
 [Dec. 2025] Our paper "Data-driven Hybrid Power Flow Model in Distribution Networks: A Tree-based Approach" was accepted to CSEE Journal of Power and Energy Systems;
