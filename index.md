@@ -11,6 +11,8 @@ He is working on fusing artificial intelligence and operation research for susta
 
 ## Recent News
 
+[Aug. 2026] Our paper "Coordinating Electricity and Computility in Economic Dispatch by Embedding Quantile Convex Latency Surrogates" was accepted by Applied Energy, and "Online Inertia Estimation in AC Microgrids using Ambient Measurements: A Bayesian Approach" was accepted by IEEE Transactions on Sustainable Energy.
+
 [Jul. 2026] Our paper "Robust Coordinated Prescriptive Power System Dispatch: Bridging Adjustable Robust OPF and Multiple Probabilistic Predictions" was accepted to IEEE Transactions on Sustainable Energy. Congrats to Xinshu :-)
 
 [Jun. 2026] Our paper "Projection-free Safe and Stable Reinforcement Learning for Adaptive Frequency Control" was accepted to IEEE Control Systems Letters, and "An Efficient Algorithm to Calculate Locational Marginal Emissions in ACOPF via Adjoint Optimization Reformulation" was accepted to IEEE Power Engineering Letters.
