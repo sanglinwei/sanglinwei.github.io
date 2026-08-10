@@ -11,7 +11,7 @@ He is working on fusing artificial intelligence and operation research for susta
 
 ## Recent News
 
-[Aug. 2026] Our paper "Coordinating Electricity and Computility in Economic Dispatch by Embedding Quantile Convex Latency Surrogates" was accepted by Applied Energy, and "Online Inertia Estimation in AC Microgrids using Ambient Measurements: A Bayesian Approach" was accepted by IEEE Transactions on Sustainable Energy.
+[Aug. 2026] Our paper "Coordinating Electricity and Computility in Economic Dispatch by Embedding Quantile Convex Latency Surrogates" was accepted by Applied Energy, and "Online Inertia Estimation in AC Microgrids using Ambient Measurements: A Bayesian Approach" was accepted by IEEE Transactions on Sustainable Energy. Congrats to Jingyi and Jiacheng :-) 
 
 [Jul. 2026] Our paper "Robust Coordinated Prescriptive Power System Dispatch: Bridging Adjustable Robust OPF and Multiple Probabilistic Predictions" was accepted to IEEE Transactions on Sustainable Energy. Congrats to Xinshu :-)
 
@@ -19,13 +19,6 @@ He is working on fusing artificial intelligence and operation research for susta
 
 [Mar. 2026] Our paper "Explainable Optimal Vehicle Charging Strategy in Power Distribution Networks via Tree-based Transportation Network Surrogates" was accepted to IEEE Transactions on Smart Grid. Congrats to Yuhang :-)
 
-[Dec. 2025] Our paper "Data-driven Hybrid Power Flow Model in Distribution Networks: A Tree-based Approach" was accepted to CSEE Journal of Power and Energy Systems;
-
-[Aug. 2025] Our paper "RIS-Assisted Communications: A Comprehensive Study for Far- and Near-Field Scenarios" was accepted to IEEE Transactions on Cognitive Communications and Networking; Congrats to Jiachen :-)
-
-[Aug. 2025] I am glad to annouce that I have been promoted to Associate Professor in Southeast University;
-
-[Jul. 2025] Our paper recieved the recipient of the 2025 IEEE PES Prize Paper Award; 
 
 
 ## Selected Papers
