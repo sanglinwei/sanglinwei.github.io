@@ -29,6 +29,11 @@ Semi-end-to-end model, Learn-to-optimize, Constraint learning, Large language mo
 完整论文详见[Google scholar](https://scholar.google.com/citations?user=y53XzOAAAAAJ&hl=en)，[Researchgate](https://www.researchgate.net/profile/Linwei-Sang)
 
 ## 主要荣誉
+- 2026年获国家电网公司科技进步一等奖
+- 2026年获全国设备管理与技术创新成果特等奖
+- 2026年入选江苏省青年科技人才托举工程
+- 2026年获东南大学优秀本科毕业设计指导老师
+- 2025年获IEEE PES Prize Paper Award 最佳论文奖
 - 2025年获清华大学博士优秀毕业生
 - 2025年获清华大学优秀博士学位论文
 - 2024年获清华大学研究生博士国家奖学金
