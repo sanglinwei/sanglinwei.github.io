@@ -11,6 +11,8 @@ He is working on fusing artificial intelligence and operation research for susta
 
 ## Recent News
 
+[Aug. 2026] I am glad to be promoted to Ph.d Supervisor.
+
 [Aug. 2026] Our paper "Physics-Informed Reinforcement Learning for Coordinated Real-Time Frequency Control of Grid-Forming Energy Storage in Low-Inertia Microgrids" was accepted by IEEE Transactions on Sustainable Energy. Congrats to Xinbao :-)
 
 [Aug. 2026] Our paper "Encoding Data-driven Flexible and Safe Regions in Distribution Network Operation via Constraint Learning" was accepted by IEEE Transactions on Industrial Informatics. My final publication in my Ph.d journey.
