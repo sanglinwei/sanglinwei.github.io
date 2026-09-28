@@ -11,6 +11,8 @@ He is working on fusing artificial intelligence and operation research for susta
 
 ## Recent News
 
+[Sept. 2026] Our paper "A Hybrid Learn-to-Optimize Framework With Dynamic Labeling for Efficient Mixed-Integer Scheduling of Active Distribution Networks" was accepted by IEEE Transactions on Smart Grid. Congrats to Xinshu :-)
+
 [Aug. 2026] I am glad to be promoted to Ph.d Supervisor.
 
 [Aug. 2026] Our paper "Physics-Informed Reinforcement Learning for Coordinated Real-Time Frequency Control of Grid-Forming Energy Storage in Low-Inertia Microgrids" was accepted by IEEE Transactions on Sustainable Energy. Congrats to Xinbao :-)
