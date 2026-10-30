@@ -11,6 +11,8 @@ He is working on fusing artificial intelligence and operation research for susta
 
 ## Recent News
 
+[Oct. 2026] Our paper "A Convex Value-Function Learning Approach to Coordinating Model-based Distribution Networks with Model-free Microgrids" was accepted by IEEE Transactions on Smart Grid. Congrats to Yuhang Chen :-)
+
 [Oct. 2026] Our paper "Chain-of-Hybrid-Experts: Prompting Large Language Models with Human-in-the-Loop for LLM-Assisted Distribution Network Optimization Modeling with Distributed Energy Resources" was accepted to Journal of Modern Power Systems and Clean Energy.
 
 [Sept. 2026] Our paper "A Hybrid Learn-to-Optimize Framework With Dynamic Labeling for Efficient Mixed-Integer Scheduling of Active Distribution Networks" was accepted by IEEE Transactions on Smart Grid. Congrats to Xinshu :-)
