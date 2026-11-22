@@ -11,6 +11,8 @@ He is working on fusing artificial intelligence and operation research for susta
 
 ## Recent News
 
+[Nov. 2026] Our paper "Decentralized Learning-Enabled Distributed Coordination of Multi-Area Distribution Networks via Convex Surrogates" was accepted by was accepted by IEEE Transactions on Smart Grid. Congrats to JingZhao :-)
+
 [Nov. 2026] Our paper "Capturing Computility Behavior in Electricity Market Clearing via Convex Data-Center Surrogates" was accepted by IEEE Transactions on Energy Markets, Policy and Regulation. Congrats to Jingyi Liu :-)
 
 [Oct. 2026] Our paper "A Convex Value-Function Learning Approach to Coordinating Model-based Distribution Networks with Model-free Microgrids" was accepted by IEEE Transactions on Smart Grid. Congrats to Yuhang Chen :-)
